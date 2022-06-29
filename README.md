@@ -1,2 +1,1 @@
-# Vinaypotta.github.io
-Coursera test repository
+#Coursera test repository
